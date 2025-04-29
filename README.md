@@ -16,7 +16,7 @@ A responsive and elegant image gallery built with **HTML** and **CSS**, featurin
 
   1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/My-Gallery-Project.git
+   git clone https://github.com/anshumanat/My-Gallery-Project.git
 
  2.Open index.html in your browser:
     cd My-Gallery-Project
